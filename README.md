@@ -1,6 +1,6 @@
 # Ressources
 
-
+Curated list of great links
 
 
 ## Front-end
@@ -15,6 +15,8 @@
 
 
 ## Back-end
+
+## Computer Vision
 
 ### OCR
 
