@@ -22,3 +22,8 @@ Curated list of great links
 
 - http://tesseract.projectnaptha.com/
 - https://blog.shevarezo.fr/post/2017/02/10/recuperer-texte-image-javascript-tesseractjs-ocr
+
+## Culture
+
+### Radio
+- https://www.franceculture.fr/recherche?q=R%C3%A9gler+nos+dettes
