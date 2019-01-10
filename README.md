@@ -29,6 +29,13 @@ Curated list of great links
 - http://tesseract.projectnaptha.com/
 - https://blog.shevarezo.fr/post/2017/02/10/recuperer-texte-image-javascript-tesseractjs-ocr
 
+## Data Science
+
+### Machine learning
+
+### Data analysis
+- https://toucantoco.com/blog/reporting-choisir-graphique-donnees/#Etape_1_Hierarchisez_vos_indicateurs
+
 ## Culture
 
 ### Radio
