@@ -32,6 +32,7 @@ Curated list of great links
 ## Data Science
 
 ### Machine learning
+- https://blog.octo.com/machine-learning-7-astuces-pour-scaler-python-sur-de-grands-datasets/
 
 ### Data analysis
 - https://toucantoco.com/blog/reporting-choisir-graphique-donnees/#Etape_1_Hierarchisez_vos_indicateurs
