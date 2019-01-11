@@ -37,6 +37,9 @@ Curated list of great links
 ### Data analysis
 - https://toucantoco.com/blog/reporting-choisir-graphique-donnees/#Etape_1_Hierarchisez_vos_indicateurs
 
+### Matplotlib
+- https://www.science-emergence.com/Articles/Changer-la-taille-dune-figure-avec-matplotlib/
+
 ## Culture
 
 ### Radio
