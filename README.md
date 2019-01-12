@@ -18,6 +18,8 @@ Curated list of great links
 
 - https://carto.com/
 - https://leafletjs.com/
+- http://www.portailsig.org/content/python-leaflet-folium-ou-comment-creer-des-cartes-interactives-simplement // Folium
+- https://scitools.org.uk/cartopy/docs/latest/ // Cartopy
 - https://overpass-turbo.eu/ 
 
 ## Back-end
@@ -39,6 +41,9 @@ Curated list of great links
 
 ### Matplotlib
 - https://www.science-emergence.com/Articles/Changer-la-taille-dune-figure-avec-matplotlib/
+
+### Dataset
+- Tweepy (framework for twitter API)
 
 ## Culture
 
