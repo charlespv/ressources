@@ -18,7 +18,8 @@ Curated list of great links
 
 - https://carto.com/
 - https://leafletjs.com/
-- http://www.portailsig.org/content/python-leaflet-folium-ou-comment-creer-des-cartes-interactives-simplement // Folium
+- https://github.com/python-visualization/folium // Folium
+- - http://www.portailsig.org/content/python-leaflet-folium-ou-comment-creer-des-cartes-interactives-simplement 
 - https://scitools.org.uk/cartopy/docs/latest/ // Cartopy
 - https://overpass-turbo.eu/ 
 
