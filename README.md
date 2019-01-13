@@ -52,5 +52,8 @@ Curated list of great links
 
 ## Culture
 
+### Storytelling
+- https://medium.muz.li/once-upon-a-time-using-story-structure-for-better-engagement-971286a2cd3c
+
 ### Radio
 - https://www.franceculture.fr/recherche?q=R%C3%A9gler+nos+dettes
