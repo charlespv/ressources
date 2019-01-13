@@ -37,6 +37,10 @@ Curated list of great links
 ### Machine learning
 - https://blog.octo.com/machine-learning-7-astuces-pour-scaler-python-sur-de-grands-datasets/
 
+#### Clustering
+- https://arxiv.org/pdf/1802.10549.pdf // Density peak clustering 
+- http://science.sciencemag.org/content/344/6191/1492.full // Density peak clustering - Science
+
 ### Data analysis
 - https://toucantoco.com/blog/reporting-choisir-graphique-donnees/#Etape_1_Hierarchisez_vos_indicateurs
 
