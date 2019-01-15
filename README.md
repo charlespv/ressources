@@ -3,7 +3,6 @@
 Curated list of great links
 
 
-
 ## Front-end
 
 ### CSS
@@ -25,6 +24,9 @@ Curated list of great links
 - https://overpass-turbo.eu/ 
 
 ## Back-end
+
+## RGPD
+- Cookie manager // https://opt-out.ferank.eu/fr/
 
 ## Computer Vision
 
