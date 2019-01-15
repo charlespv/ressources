@@ -3,6 +3,7 @@
 Curated list of great links
 
 
+
 ## Front-end
 
 ### CSS
@@ -55,6 +56,12 @@ Curated list of great links
 
 ### Dataset
 - Tweepy (framework for twitter API)
+
+### Server
+- AWS // https://medium.com/@ChrisBui415/setting-up-aws-ec2-instance-for-beginners-e34fa71a4758
+
+## IoT
+- https://platformio.org/
 
 ## Culture
 
