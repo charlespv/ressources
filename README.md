@@ -38,8 +38,11 @@ Curated list of great links
 - https://blog.octo.com/machine-learning-7-astuces-pour-scaler-python-sur-de-grands-datasets/
 
 #### Clustering
+##### Density peak
 - https://arxiv.org/pdf/1802.10549.pdf // Density peak clustering 
 - http://science.sciencemag.org/content/344/6191/1492.full // Density peak clustering - Science
+- http://vahidmirjalili.com/static/articles/densityPeak_clustering.html // Density peak implementation
+- https://github.com/MoogMt/PHYSIX_Utils/blob/master/GPlib/Julia/clustering.jl
 
 ### Data analysis
 - https://toucantoco.com/blog/reporting-choisir-graphique-donnees/#Etape_1_Hierarchisez_vos_indicateurs
