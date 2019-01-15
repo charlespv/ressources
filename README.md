@@ -34,6 +34,9 @@ Curated list of great links
 
 ## Data Science
 
+### Handbook
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+
 ### Machine learning
 - https://blog.octo.com/machine-learning-7-astuces-pour-scaler-python-sur-de-grands-datasets/
 
