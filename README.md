@@ -2,6 +2,9 @@
 
 Curated list of great links
 
+## Computer Research in Music and Acoustics
+- https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
+
 
 ## Front-end
 
