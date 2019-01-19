@@ -68,10 +68,21 @@ Curated list of great links
 ## IoT
 - https://platformio.org/
 
-## Culture
+## Design
+
+- https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
+- https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
+
+### Dribbble
+- 
+- 
+
+## Marketing
 
 ### Storytelling
 - https://medium.muz.li/once-upon-a-time-using-story-structure-for-better-engagement-971286a2cd3c
+
+## Culture
 
 ### Radio
 - https://www.franceculture.fr/recherche?q=R%C3%A9gler+nos+dettes
