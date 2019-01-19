@@ -61,6 +61,7 @@ Curated list of great links
 
 ### Dataset
 - Tweepy (framework for twitter API)
+- Generate dataset // https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae
 
 ### Server
 - AWS // https://medium.com/@ChrisBui415/setting-up-aws-ec2-instance-for-beginners-e34fa71a4758
