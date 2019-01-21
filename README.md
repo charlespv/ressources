@@ -45,6 +45,7 @@ Curated list of great links
 
 ### Machine learning
 - https://blog.octo.com/machine-learning-7-astuces-pour-scaler-python-sur-de-grands-datasets/
+- http://www-bcf.usc.edu/~gareth/ISL/ 
 
 #### Clustering
 ##### Density peak
