@@ -74,6 +74,8 @@ Curated list of great links
 
 - https://blog.prototypr.io/optical-adjustments-in-components-a7f1f8655e0
 - https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
+- https://www.reallygoodux.io
+- https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520
 
 ### Dribbble
 - 
