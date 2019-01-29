@@ -40,6 +40,9 @@ Curated list of great links
 
 ## Data Science
 
+### Javascript
+- http://learnjsdata.com/
+
 ### Handbook
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 
