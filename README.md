@@ -70,6 +70,13 @@ Curated list of great links
 ### Server
 - AWS // https://medium.com/@ChrisBui415/setting-up-aws-ec2-instance-for-beginners-e34fa71a4758
 
+### Data Product Manager
+- https://medium.com/@treycausey
+- https://medium.com/@treycausey/why-good-data-scientists-make-good-product-managers-and-why-theyll-be-a-little-uncomfortable-155bb9687f3
+- https://medium.com/@treycausey/rise-of-the-data-product-manager-2fb9961b21d1
+- http://treycausey.com/
+- https://towardsdatascience.com/becoming-a-data-driven-product-manager-f320d0182a9c
+
 ## IoT
 - https://platformio.org/
 
@@ -89,7 +96,10 @@ Curated list of great links
 ### Storytelling
 - https://medium.muz.li/once-upon-a-time-using-story-structure-for-better-engagement-971286a2cd3c
 
-## Culture
+## General knowledge
 
 ### Radio
 - https://www.franceculture.fr/recherche?q=R%C3%A9gler+nos+dettes
+
+### Europe
+- https://ec.europa.eu/digital-single-market/en/policies/digitising-european-industry
