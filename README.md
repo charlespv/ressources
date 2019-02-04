@@ -1,5 +1,10 @@
 # Ressources
 
+TMP
+https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a
+https://towardsdatascience.com/inferential-statistics-for-data-science-b0075670fc8a
+https://towardsdatascience.com/bayes-classifier-with-maximum-likelihood-estimation-4b754b641488
+
 Curated list of great links
 
 ## Computer Research in Music and Acoustics
