@@ -10,6 +10,9 @@ Curated list of great links
 ## Computer Research in Music and Acoustics
 - https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
 
+## Progressive Web App
+- https://developers.google.com/web/tools/lighthouse/
+
 
 ## Front-end
 
@@ -91,6 +94,7 @@ Curated list of great links
 - https://blog.bitsrc.io/building-a-consistent-ui-design-system-4481fb37470f
 - https://www.reallygoodux.io
 - https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520
+- Atomic Design Methodology : https://medium.muz.li/atomic-design-methodology-166261ce47c2
 
 ### Dribbble
 - 
