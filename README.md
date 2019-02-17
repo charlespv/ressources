@@ -95,6 +95,7 @@ Curated list of great links
 - https://www.reallygoodux.io
 - https://blog.prototypr.io/the-8pt-grid-consistent-spacing-in-ui-design-with-sketch-577e4f0fd520
 - Atomic Design Methodology : https://medium.muz.li/atomic-design-methodology-166261ce47c2
+- Slide template : https://www.slidescarnival.com/
 
 ### Dribbble
 - 
