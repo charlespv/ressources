@@ -21,6 +21,10 @@ Curated list of great links
 
 - https://30-seconds.github.io/30-seconds-of-css/
 
+### Animation
+
+- https://greensock.com/tweenmax
+
 ### Components
 
 - https://storybook.js.org/   // Tool to develop components in a isolate environement
