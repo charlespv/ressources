@@ -53,6 +53,9 @@ Curated list of great links
 
 ## Data Science
 
+### Scala 
+- http://allaboutscala.com/
+
 ### Javascript
 - http://learnjsdata.com/
 
